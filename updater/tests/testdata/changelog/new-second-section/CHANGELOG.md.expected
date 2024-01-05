@@ -1,0 +1,20 @@
+# Changelog
+
+## Unreleased
+
+### Fixes
+
+* An existing
+* Set of Fixes
+
+### Dependencies
+
+- Capture `Debug.LogError()` and `Debug.LogException()` also on background threads ([#673](https://github.com/gsoc2/gsoc2-unity/pull/673))
+- Adding override for Gsoc2 CLI URL ([#666](https://github.com/gsoc2/gsoc2-unity/pull/666))
+* Bump Dependency from v7.16.0 to v7.17.0 ([#123](https://github.com/gsoc2/dependant/pulls/123))
+  * [changelog](https://github.com/gsoc2/dependency/blob/main/CHANGELOG.md#7170)
+  * [diff](https://github.com/gsoc2/dependency/compare/7.16.0...7.17.0)
+
+### Notes
+
+- some more stuff
